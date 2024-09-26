@@ -26,10 +26,3 @@
  **<h3 align="center">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="36" alt="PHP" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="36" alt="Laravel" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="36" alt="Tailwind CSS" style="margin-right: 18px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="36" alt="MySQL" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="36" alt="Visual Studio Code" style="margin-right: 18px"></div>
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=theHocineSaad&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theHocineSaad&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
-</p>
