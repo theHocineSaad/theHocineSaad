@@ -17,7 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **any project they throw at me at [Chargily](https://www.linkedin.com/company/chargily "Chargily") (Chargily Pay, the backend of the Chargily app, some microservices...).**
+- 💼 I'm currently working on: **any project they throw at me at [Chargily](https://www.linkedin.com/company/chargily "Chargily") ([Chargily Pay](https://pay.chargily.com "Chargily Pay"), the backend of the [Chargily App](https://play.google.com/store/apps/details?id=app.chargily.dz&hl=en "Chargily App"), some microservices...).**
 - 🌱 I'm currently learning: **every new technology needed in my job that are outside of my current expertise.**
 - ⚡ Fun fact: **I use Windows, VS Code and you don't need Coffee to be a good developer.**
 - 📝 Blog: **<a href="https://medium.com/@theHocineSaad/" target="_blank">https://medium.com/@theHocineSaad/</a>**
