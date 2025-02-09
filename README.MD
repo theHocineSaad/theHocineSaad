@@ -1,4 +1,4 @@
-![👋 Hey, I am Hocine Saad](https://media.licdn.com/dms/image/v2/D4D16AQGYbKPHSueilQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723400406403?e=1732752000&v=beta&t=aA-_4s7usDYol6Z7moAFLSN28BNWoMEBgyN68Y_gjRk)
+![👋 Hey, I am Hocine Saad](https://media.licdn.com/dms/image/v2/D4D16AQGYbKPHSueilQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723400406403?e=1744848000&v=beta&t=ez-84UW7j1paYBeqvpR02MpXSkLnQZPvobGb1VToLz4)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -17,7 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **any project they throw at me at [Chargily](https://www.linkedin.com/company/chargily "Chargily") ([Chargily Pay](https://pay.chargily.com "Chargily Pay"), the backend of the [Chargily App](https://play.google.com/store/apps/details?id=app.chargily.dz&hl=en "Chargily App"), some microservices...).**
+- 💼 I'm currently working on: **any project they throw at me at [Zimou Group](https://www.linkedin.com/company/zimou-group "Zimou Group").**
 - 🌱 I'm currently learning: **every new technology needed in my job that are outside of my current expertise.**
 - ⚡ Fun fact: **I use Windows, VS Code and you don't need Coffee to be a good developer.**
 - 📝 Blog: **<a href="https://medium.com/@theHocineSaad/" target="_blank">https://medium.com/@theHocineSaad/</a>**
