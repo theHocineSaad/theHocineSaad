@@ -17,7 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **any project they throw at me at [Zimou Group](https://www.linkedin.com/company/zimou-group "Zimou Group").**
+- 💼 I'm currently working on: **any project they throw at me at [Zimou Express](https://www.linkedin.com/company/zimou-express "Zimou Express").**
 - 🌱 I'm currently learning: **every new technology needed in my job that are outside of my current expertise.**
 - ⚡ Fun fact: **I use Windows, VS Code and you don't need Coffee to be a good developer.**
 - 📝 Blog: **<a href="https://medium.com/@theHocineSaad/" target="_blank">https://medium.com/@theHocineSaad/</a>**
